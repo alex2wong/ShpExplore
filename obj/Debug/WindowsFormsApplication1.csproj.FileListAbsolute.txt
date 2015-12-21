@@ -1,0 +1,50 @@
+C:\Documents and Settings\LXT400\桌面\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\LXT400\桌面\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\LXT400\桌面\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\LXT400\桌面\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Documents and Settings\LXT400\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\LXT400\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\LXT400\桌面\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\LXT400\桌面\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Teaching\AGIS2011\web\3\读二进制文件\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Teaching\AGIS2011\web\3\读二进制文件\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Teaching\AGIS2011\web\3\读二进制文件\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Teaching\AGIS2011\web\3\读二进制文件\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Teaching\AGIS2011\web\3\读二进制文件\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Teaching\AGIS2011\web\3\读二进制文件\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Teaching\AGIS2011\web\3\读二进制文件\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Teaching\AGIS2011\web\3\读二进制文件\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Teaching\AGIS2011\web\4\读二进制文件\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Teaching\AGIS2011\web\4\读二进制文件\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Teaching\AGIS2011\web\4\读二进制文件\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Teaching\AGIS2011\web\4\读二进制文件\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Teaching\AGIS2011\web\4\读二进制文件\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Teaching\AGIS2011\web\4\读二进制文件\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Teaching\AGIS2011\web\4\读二进制文件\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Teaching\AGIS2011\web\4\读二进制文件\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Teaching\AGIS2011\web\4\读二进制文件\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\Teaching\AGIS2011\web\5\读SHP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Teaching\AGIS2011\web\5\读SHP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Teaching\AGIS2011\web\5\读SHP\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Teaching\AGIS2011\web\5\读SHP\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Teaching\AGIS2011\web\5\读SHP\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Teaching\AGIS2011\web\5\读SHP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\Teaching\AGIS2011\web\5\读SHP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Teaching\AGIS2011\web\5\读SHP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\李响\课堂作业\读SHP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\李响\课堂作业\读SHP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\李响\课堂作业\读SHP\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\李响\课堂作业\读SHP\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\李响\课堂作业\读SHP\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\李响\课堂作业\读SHP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\李响\课堂作业\读SHP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\李响\课堂作业\读SHP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\课程\大三\高级GIS教程\MapExplore\MapExplore\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\课程\大三\高级GIS教程\MapExplore\MapExplore\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\课程\大三\高级GIS教程\MapExplore\MapExplore\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\课程\大三\高级GIS教程\MapExplore\MapExplore\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\课程\大三\高级GIS教程\MapExplore\MapExplore\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\课程\大三\高级GIS教程\MapExplore\MapExplore\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\课程\大三\高级GIS教程\MapExplore\MapExplore\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\课程\大三\高级GIS教程\MapExplore\MapExplore\WindowsFormsApplication1\obj\Debug\GenerateResource.read.1.tlog
+D:\课程\大三\高级GIS教程\MapExplore\MapExplore\WindowsFormsApplication1\obj\Debug\GenerateResource.write.1.tlog
